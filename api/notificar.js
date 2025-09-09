@@ -1,8 +1,6 @@
-//# ===================================================================
-//# ARCHIVO 1: api/notificar.js (Para el repositorio de GitHub)
-//# ===================================================================
-// Este es el código para nuestra función Serverless en Vercel.
-// Vercel espera que exportemos una función `handler`.
+# ===================================================================
+# ARCHIVO 15: api/notificar.js (Para el repositorio de GitHub/Vercel)
+# ===================================================================
 export default function handler(request, response) {
     console.log("Vercel function invoked!");
     try {
