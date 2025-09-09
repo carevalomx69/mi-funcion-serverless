@@ -1,6 +1,3 @@
-# ===================================================================
-# ARCHIVO 15: api/notificar.js (Para el repositorio de GitHub/Vercel)
-# ===================================================================
 export default function handler(request, response) {
     console.log("Vercel function invoked!");
     try {
